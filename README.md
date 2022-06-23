@@ -1,2 +1,1 @@
-# kaggle-courses
- Coursese on Kaggle
+# Kaggle Courses
