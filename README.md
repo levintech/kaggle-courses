@@ -5,7 +5,8 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
 ## Certifications
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="500" alt="Intro to Programming" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/01.%20Intro%20to%20Programming/Intro%20to%20Programming.png">|<img width="500" alt="Pythong" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/02.%20Python/Python.png">|<img width="500" alt="Intro Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/03.%20Intro%20to%20Machine%20Learning/Intro%20to%20Machine%20Learning.png">|
+|<img width="500" alt="Intro to Programming" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/01.%20Intro%20to%20Programming/Intro%20to%20Programming.png">|<img width="500" alt="Python" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/02.%20Python/Python.png">|<img width="500" alt="Intro Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/03.%20Intro%20to%20Machine%20Learning/Intro%20to%20Machine%20Learning.png">|
+|<img width="500" alt="Pandas" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/Pandas.png">|||
 
 ## Tutorial 1 - Intro to Programming
 
@@ -68,3 +69,24 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [05 - Underfitting and Overfitting](https://github.com/thunderstroke325/kaggle-courses/blob/master/03.%20Intro%20to%20Machine%20Learning/exercise/05.%20exercise-underfitting-and-overfitting.ipynb)
   - [06 - Random Forests](https://github.com/thunderstroke325/kaggle-courses/blob/master/03.%20Intro%20to%20Machine%20Learning/exercise/06.%20exercise-random-forests.ipynb)
   - [07 - Machine Learning Competitions](https://github.com/thunderstroke325/kaggle-courses/blob/master/03.%20Intro%20to%20Machine%20Learning/exercise/07.%20exercise-machine-learning-competitions.ipynb)
+
+
+## Tutorial 4 - Pandas
+
+### Lecture Notes
+
+  - [01 - Creating, Reading, and Writing](https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/tutorial/01.%20creating-reading-and-writing.ipynb)
+  - [02 - Indexing, Selecting, and Assigning](https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/tutorial/02.%20indexing-selecting-assigning.ipynb)
+  - [03 - Summary Functions and Maps](https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/tutorial/03.%20summary-functions-and-maps.ipynb)
+  - [04 - Grouping and Sorting](https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/tutorial/04.%20grouping-and-sorting.ipynb)
+  - [05 - Data Types and Missing Values](https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/tutorial/05.%20data-types-and-missing-values.ipynb)
+  - [06 - Renaming and Combining](https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/tutorial/06.%20renaming-and-combining.ipynb)
+
+### Exercise
+
+  - [01 - Creating, Reading, and Writing](https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/exercise/01.%20exercise-creating-reading-and-writing.ipynb)
+  - [02 - Indexing, Selecting, and Assigning](https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/exercise/02.%20exercise-indexing-selecting-assigning.ipynb)
+  - [03 - Summary Functions and Maps](https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/exercise/03.%20exercise-summary-functions-and-maps.ipynb)
+  - [04 - Grouping and Sorting](https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/exercise/04.%20exercise-grouping-and-sorting.ipynb)
+  - [05 - Data Types and Missing Values](https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/exercise/05.%20exercise-data-types-and-missing-values.ipynb)
+  - [06 - Renaming and Combining](https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/exercise/06.%20exercise-renaming-and-combining.ipynb)
