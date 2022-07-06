@@ -92,7 +92,7 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [06 - Renaming and Combining](https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/exercise/06.%20exercise-renaming-and-combining.ipynb)
 
 
-## Tutorial 4 - Intermediate to Machine Learning
+## Tutorial 5 - Intermediate to Machine Learning
 
 ### Lecture Notes
 
