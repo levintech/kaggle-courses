@@ -6,7 +6,7 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="500" alt="Intro to Programming" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/01.%20Intro%20to%20Programming/Intro%20to%20Programming.png">|<img width="500" alt="Python" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/02.%20Python/Python.png">|<img width="500" alt="Intro Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/03.%20Intro%20to%20Machine%20Learning/Intro%20to%20Machine%20Learning.png">|
-|<img width="500" alt="Pandas" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/Pandas.png">|||
+|<img width="500" alt="Pandas" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/Pandas.png">|<img width="500" alt="Intermediate to Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/Intermediate%20Machine%20Learning.png">||
 
 ## Tutorial 1 - Intro to Programming
 
@@ -108,8 +108,8 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
 
   - [01 - Introduction](https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/exercise/01.%20exercise-introduction.ipynb)
   - [02 - Missing Values](https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/exercise/02.%20exercise-missing-values.ipynb)
-  - [03 - Categorical Variables]()
-  - [04 - Pipelines]()
-  - [05 - Cross-Validation]()
-  - [06 - XGBoost]()
-  - [07 - Data Leakage]()
+  - [03 - Categorical Variables](https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/exercise/03.%20exercise-categorical-variables.ipynb)
+  - [04 - Pipelines](https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/exercise/04.%20exercise-pipelines.ipynb)
+  - [05 - Cross-Validation](https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/exercise/05.%20exercise-cross-validation.ipynb)
+  - [06 - XGBoost](https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/exercise/06.%20exercise-xgboost.ipynb)
+  - [07 - Data Leakage](https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/exercise/07.%20exercise-data-leakage.ipynb)
