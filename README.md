@@ -113,3 +113,17 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [05 - Cross-Validation](https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/exercise/05.%20exercise-cross-validation.ipynb)
   - [06 - XGBoost](https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/exercise/06.%20exercise-xgboost.ipynb)
   - [07 - Data Leakage](https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/exercise/07.%20exercise-data-leakage.ipynb)
+
+
+## Tutorial 6 - Data Visualization
+
+### Lecture Notes
+
+  - [01 - Hello Seaborn](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/tutorial/01.%20hello-seaborn.ipynb)
+  - [02 - Line Charts](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/tutorial/02.%20line-charts.ipynb)
+  - [03 - Bar Charts and Heatmaps](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/tutorial/03.%20bar-charts-and-heatmaps.ipynb)
+  - [04 - Scatter Plots](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/tutorial/04.%20scatter-plots.ipynb)
+  - [05 - Distributions](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/tutorial/05.%20distributions.ipynb)
+  - [06 - Choosing Ploat Types and Custom Styles](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/tutorial/06.%20choosing-plot-types-and-custom-styles.ipynb)
+  - [07 - Final Project](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/tutorial/07.%20final-project.ipynb)
+  - [08 - Creating Your Own Notebook](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/tutorial/08.%20creating-your-own-notebooks.ipynb)
