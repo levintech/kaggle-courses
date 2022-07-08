@@ -127,3 +127,14 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [06 - Choosing Ploat Types and Custom Styles](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/tutorial/06.%20choosing-plot-types-and-custom-styles.ipynb)
   - [07 - Final Project](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/tutorial/07.%20final-project.ipynb)
   - [08 - Creating Your Own Notebook](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/tutorial/08.%20creating-your-own-notebooks.ipynb)
+
+### Exercise
+
+  - [01 - Hello Seaborn](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/exercise/01.%20exercise-hello-seaborn.ipynb)
+  - [02 - Line Charts](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/exercise/02.%20exercise-line-charts.ipynb)
+  - [03 - Bar Charts and Heatmaps](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/exercise/03.%20exercise-bar-charts-and-heatmaps.ipynb)
+  - [04 - Scatter Plots](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/exercise/04.%20exercise-scatter-plots.ipynb)
+  - [05 - Distributions](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/exercise/05.%20exercise-distributions.ipynb)
+  - [06 - Choosing Ploat Types and Custom Styles](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/exercise/06.%20exercise-choosing-plot-types-and-custom-styles.ipynb)
+  - [07 - Final Project]()
+  - [08 - Creating Your Own Notebook]()
