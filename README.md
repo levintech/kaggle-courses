@@ -6,7 +6,7 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="500" alt="Intro to Programming" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/01.%20Intro%20to%20Programming/Intro%20to%20Programming.png">|<img width="500" alt="Python" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/02.%20Python/Python.png">|<img width="500" alt="Intro Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/03.%20Intro%20to%20Machine%20Learning/Intro%20to%20Machine%20Learning.png">|
-|<img width="500" alt="Pandas" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/Pandas.png">|<img width="500" alt="Intermediate to Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/Intermediate%20Machine%20Learning.png">||
+|<img width="500" alt="Pandas" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/Pandas.png">|<img width="500" alt="Intermediate to Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/Intermediate%20Machine%20Learning.png">|<img width="500" alt="Data Visualization" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/Data%20Visualization.png">|
 
 ## Tutorial 1 - Intro to Programming
 
@@ -136,5 +136,4 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [04 - Scatter Plots](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/exercise/04.%20exercise-scatter-plots.ipynb)
   - [05 - Distributions](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/exercise/05.%20exercise-distributions.ipynb)
   - [06 - Choosing Ploat Types and Custom Styles](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/exercise/06.%20exercise-choosing-plot-types-and-custom-styles.ipynb)
-  - [07 - Final Project]()
-  - [08 - Creating Your Own Notebook]()
+  - [07 - Final Project](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/exercise/07.%20exercise-final-project.ipynb)
