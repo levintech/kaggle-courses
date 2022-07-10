@@ -7,6 +7,7 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="500" alt="Intro to Programming" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/01.%20Intro%20to%20Programming/Intro%20to%20Programming.png">|<img width="500" alt="Python" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/02.%20Python/Python.png">|<img width="500" alt="Intro Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/03.%20Intro%20to%20Machine%20Learning/Intro%20to%20Machine%20Learning.png">|
 |<img width="500" alt="Pandas" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/Pandas.png">|<img width="500" alt="Intermediate to Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/Intermediate%20Machine%20Learning.png">|<img width="500" alt="Data Visualization" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/Data%20Visualization.png">|
+|<img width="500" alt="Feature Engineering" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/Feature%20Engineering.png">| | |
 
 ## Tutorial 1 - Intro to Programming
 
@@ -150,3 +151,11 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [05 - Principal Component Analysis](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/tutorial/05.%20principal-component-analysis.ipynb)
   - [06 - Target Encoding](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/tutorial/06.%20target-encoding.ipynb)
   - [07 - Feature Engineering for house prices](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/tutorial/07.%20feature-engineering-for-house-prices.ipynb)
+
+### Exercise
+
+  - [02 - Mutual Information](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/exercise/02.%20exercise-mutual-information.ipynb)
+  - [03 - Creating Features](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/exercise/03.%20exercise-creating-features.ipynb)
+  - [04 - Clustering with K-Means](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/exercise/04.%20exercise-clustering-with-k-means.ipynb)
+  - [05 - Principal Component Analysis](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/exercise/05.%20exercise-principal-component-analysis.ipynb)
+  - [06 - Target Encoding](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/exercise/06.%20exercise-target-encoding.ipynb)
