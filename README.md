@@ -137,3 +137,16 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [05 - Distributions](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/exercise/05.%20exercise-distributions.ipynb)
   - [06 - Choosing Ploat Types and Custom Styles](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/exercise/06.%20exercise-choosing-plot-types-and-custom-styles.ipynb)
   - [07 - Final Project](https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/exercise/07.%20exercise-final-project.ipynb)
+
+
+## Tutorial 7 - Feature Engineering
+
+### Lecture Notes
+
+  - [01 - What is Feature Engineering](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/tutorial/01.%20what-is-feature-engineering.ipynb)
+  - [02 - Mutual Information](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/tutorial/02.%20mutual-information.ipynb)
+  - [03 - Creating Features](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/tutorial/03.%20creating-features.ipynb)
+  - [04 - Clustering with K-Means](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/tutorial/04.%20clustering-with-k-means.ipynb)
+  - [05 - Principal Component Analysis](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/tutorial/05.%20principal-component-analysis.ipynb)
+  - [06 - Target Encoding](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/tutorial/06.%20target-encoding.ipynb)
+  - [07 - Feature Engineering for house prices](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/tutorial/07.%20feature-engineering-for-house-prices.ipynb)
