@@ -160,7 +160,7 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [05 - Principal Component Analysis](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/exercise/05.%20exercise-principal-component-analysis.ipynb)
   - [06 - Target Encoding](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/exercise/06.%20exercise-target-encoding.ipynb)
 
-## Tutorial 1 - Intro to Programming
+## Tutorial 8 - SQL
 
 ### Lecture Notes
 
