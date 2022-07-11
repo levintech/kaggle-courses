@@ -159,3 +159,14 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [04 - Clustering with K-Means](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/exercise/04.%20exercise-clustering-with-k-means.ipynb)
   - [05 - Principal Component Analysis](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/exercise/05.%20exercise-principal-component-analysis.ipynb)
   - [06 - Target Encoding](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/exercise/06.%20exercise-target-encoding.ipynb)
+
+## Tutorial 1 - Intro to Programming
+
+### Lecture Notes
+
+  - [01 - Getting Sstarted with SQL and Bigquery](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/tutorial/01.%20getting-started-with-sql-and-bigquery.ipynb)
+  - [02 - Select, From & Where](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/tutorial/02.%20select-from-where.ipynb)
+  - [03 - Group By, Having & Count](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/tutorial/03.%20group-by-having-count.ipynb)
+  - [04 - Order By](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/tutorial/04.%20order-by.ipynb)
+  - [05 - As & With](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/tutorial/05.%20as-with.ipynb)
+  - [06 - Joining Data](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/tutorial/06.%20joining-data.ipynb)
