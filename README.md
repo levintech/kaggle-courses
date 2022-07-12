@@ -7,7 +7,7 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="500" alt="Intro to Programming" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/01.%20Intro%20to%20Programming/Intro%20to%20Programming.png">|<img width="500" alt="Python" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/02.%20Python/Python.png">|<img width="500" alt="Intro Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/03.%20Intro%20to%20Machine%20Learning/Intro%20to%20Machine%20Learning.png">|
 |<img width="500" alt="Pandas" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/Pandas.png">|<img width="500" alt="Intermediate to Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/Intermediate%20Machine%20Learning.png">|<img width="500" alt="Data Visualization" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/Data%20Visualization.png">|
-|<img width="500" alt="Feature Engineering" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/Feature%20Engineering.png">| | |
+|<img width="500" alt="Feature Engineering" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/Feature%20Engineering.png">|<img width="500" alt="Intro to SQL" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/Intro%20to%20SQL.png">| |
 
 ## Tutorial 1 - Intro to Programming
 
@@ -170,3 +170,12 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [04 - Order By](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/tutorial/04.%20order-by.ipynb)
   - [05 - As & With](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/tutorial/05.%20as-with.ipynb)
   - [06 - Joining Data](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/tutorial/06.%20joining-data.ipynb)
+
+### Exercise
+
+  - [01 - Getting Sstarted with SQL and Bigquery](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/exercise/01.%20exercise-getting-started-with-sql-and-bigquery.ipynb)
+  - [02 - Select, From & Where](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/exercise/02.%20exercise-select-from-where.ipynb)
+  - [03 - Group By, Having & Count](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/exercise/03.%20exercise-group-by-having-count.ipynb)
+  - [04 - Order By](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/exercise/04.%20exercise-order-by.ipynb)
+  - [05 - As & With](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/exercise/05.%20exercise-as-with.ipynb)
+  - [06 - Joining Data](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/exercise/06.%20exercise-joining-data.ipynb)
