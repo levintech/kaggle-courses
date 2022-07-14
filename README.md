@@ -7,7 +7,7 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="500" alt="Intro to Programming" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/01.%20Intro%20to%20Programming/Intro%20to%20Programming.png">|<img width="500" alt="Python" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/02.%20Python/Python.png">|<img width="500" alt="Intro Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/03.%20Intro%20to%20Machine%20Learning/Intro%20to%20Machine%20Learning.png">|
 |<img width="500" alt="Pandas" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/Pandas.png">|<img width="500" alt="Intermediate to Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/Intermediate%20Machine%20Learning.png">|<img width="500" alt="Data Visualization" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/Data%20Visualization.png">|
-|<img width="500" alt="Feature Engineering" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/Feature%20Engineering.png">|<img width="500" alt="Intro to SQL" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/Intro%20to%20SQL.png">| |
+|<img width="500" alt="Feature Engineering" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/Feature%20Engineering.png">|<img width="500" alt="Intro to SQL" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/Intro%20to%20SQL.png">|<img width="500" alt="Advanced SQL" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/Advanced%20SQL.png">|
 
 ## Tutorial 1 - Intro to Programming
 
@@ -190,3 +190,10 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [02 - Analytic Functions](https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/tutorial/02.%20analytic-functions.ipynb)
   - [03 - Nested and Repeated Data](https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/tutorial/02.%20analytic-functions.ipynb)
   - [04 - Writing Efficient Quries](https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/tutorial/04.%20writing-efficient-queries.ipynb)
+
+### Exercise
+
+  - [01 - JOINs and UNIONs](https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/exercise/01.%20exercise-joins-and-unions.ipynb)
+  - [02 - Analytic Functions](https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/exercise/02.%20exercise-analytic-functions.ipynb)
+  - [03 - Nested and Repeated Data](https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/exercise/03.%20exercise-nested-and-repeated-data.ipynb)
+  - [04 - Writing Efficient Quries](https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/exercise/04.%20exercise-writing-efficient-queries.ipynb)
