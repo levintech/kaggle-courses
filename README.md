@@ -160,6 +160,7 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [05 - Principal Component Analysis](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/exercise/05.%20exercise-principal-component-analysis.ipynb)
   - [06 - Target Encoding](https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/exercise/06.%20exercise-target-encoding.ipynb)
 
+
 ## Tutorial 8 - SQL
 
 ### Lecture Notes
@@ -179,3 +180,13 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [04 - Order By](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/exercise/04.%20exercise-order-by.ipynb)
   - [05 - As & With](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/exercise/05.%20exercise-as-with.ipynb)
   - [06 - Joining Data](https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/exercise/06.%20exercise-joining-data.ipynb)
+
+
+## Tutorial 9 - Advanced SQL
+
+### Lecture Notes
+
+  - [01 - JOINs and UNIONs](https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/tutorial/01.%20joins-and-unions.ipynb)
+  - [02 - Analytic Functions](https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/tutorial/02.%20analytic-functions.ipynb)
+  - [03 - Nested and Repeated Data](https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/tutorial/02.%20analytic-functions.ipynb)
+  - [04 - Writing Efficient Quries](https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/tutorial/04.%20writing-efficient-queries.ipynb)
