@@ -209,3 +209,9 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [04 - Overfitting and Underfitting](https://github.com/thunderstroke325/kaggle-courses/blob/master/10.%20Intro%20to%20Deep%20Learning/tutorial/04.%20overfitting-and-underfitting.ipynb)
   - [05 - Dropout and Batch Normalization](https://github.com/thunderstroke325/kaggle-courses/blob/master/10.%20Intro%20to%20Deep%20Learning/tutorial/05.%20dropout-and-batch-normalization.ipynb)
   - [06 - Binary Classification](https://github.com/thunderstroke325/kaggle-courses/blob/master/10.%20Intro%20to%20Deep%20Learning/tutorial/06.%20binary-classification.ipynb)
+
+### Exercise
+
+  - [01 - A Single Neuron](https://github.com/thunderstroke325/kaggle-courses/blob/master/10.%20Intro%20to%20Deep%20Learning/exercise/01..%20exercise-a-single-neuron.ipynb)
+  - [02 - Deep Neural Networks](https://github.com/thunderstroke325/kaggle-courses/blob/master/10.%20Intro%20to%20Deep%20Learning/exercise/02.%20exercise-deep-neural-networks.ipynb)
+  - [03 - Stochastic Gradient Descent](https://github.com/thunderstroke325/kaggle-courses/blob/master/10.%20Intro%20to%20Deep%20Learning/exercise/03.%20exercise-stochastic-gradient-descent.ipynb)
