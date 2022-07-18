@@ -219,3 +219,21 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [04 - Overfitting and Underfitting](https://github.com/thunderstroke325/kaggle-courses/blob/master/10.%20Intro%20to%20Deep%20Learning/exercise/04.%20exercise-overfitting-and-underfitting.ipynb)
   - [05 - Dropout and Batch Normalization](https://github.com/thunderstroke325/kaggle-courses/blob/master/10.%20Intro%20to%20Deep%20Learning/exercise/05.%20exercise-dropout-and-batch-normalization.ipynb)
   - [06 - Binary Classification](https://github.com/thunderstroke325/kaggle-courses/blob/master/10.%20Intro%20to%20Deep%20Learning/exercise/06.%20exercise-binary-classification.ipynb)
+
+
+## Tutorial 11 - Computer Vision
+
+### Lecture Notes
+
+  - [01 - The Convolutional Classifier](https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/tutorial/01.%20the-convolutional-classifier.ipynb)
+  - [02 - Convolution and ReLU](https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/tutorial/02.%20convolution-and-relu.ipynb)
+  - [03 - Maximum Pooling](https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/tutorial/03.%20maximum-pooling.ipynb)
+  - [04 - The Sliding Window](https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/tutorial/04.%20the-sliding-window.ipynb)
+  - [05 - Custom Convnets](https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/tutorial/05.%20custom-convnets.ipynb)
+  - [06 - Data Augmentation](https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/tutorial/06.%20data-augmentation.ipynb)
+
+### Exercise
+
+  - [01 - The Convolutional Classifier](https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/exercise/01.%20exercise-the-convolutional-classifier.ipynb)
+  - [02 - Convolution and ReLU](https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/exercise/02.%20exercise-convolution-and-relu.ipynb)
+  - [03 - Maximum Pooling](https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/exercise/03.%20exercise-maximum-pooling.ipynb)
