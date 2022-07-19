@@ -240,3 +240,20 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [04 - The Sliding Window](https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/exercise/04.%20exercise-the-sliding-window.ipynb)
   - [05 - Custom Convnets](https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/exercise/05.%20exercise-custom-convnets.ipynb)
   - [06 - Data Augmentation](https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/exercise/06.%20exercise-data-augmentation.ipynb)
+
+
+## Tutorial 12 - Data Cleaning
+
+### Lecture Notes
+
+  - [01 - Handling Missing Values](https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/tutorial/01.%20handling-missing-values.ipynb)
+  - [02 - Scaling and Normalization](https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/tutorial/02.%20scaling-and-normalization.ipynb)
+  - [03 - Parsing Dates](https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/tutorial/03.%20parsing-dates.ipynb)
+  - [04 - Character Encodings](https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/tutorial/04.%20character-encodings.ipynb)
+  - [05 - Inconsistent data Entry](https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/tutorial/05.%20inconsistent-data-entry.ipynb)
+
+### Exercise
+
+  - [01 - Handling Missing Values](https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/exercise/01.%20exercise-handling-missing-values.ipynb)
+  - [02 - Scaling and Normalization](https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/exercise/02.%20exercise-scaling-and-normalization.ipynb)
+  - [03 - Parsing Dates](https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/exercise/03.%20exercise-parsing-dates.ipynb)
