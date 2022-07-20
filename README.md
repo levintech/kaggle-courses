@@ -259,3 +259,15 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [03 - Parsing Dates](https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/exercise/03.%20exercise-parsing-dates.ipynb)
   - [04 - Character Encodings](https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/exercise/04.%20exercise-character-encodings.ipynb)
   - [05 - Inconsistent data Entry](https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/exercise/05.%20exercise-inconsistent-data-entry.ipynb)
+
+
+## Tutorial 13 - Time Series
+
+### Lecture Notes
+
+  - [01 - Linear Regression With Time Series](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/tutorial/01.%20linear-regression-with-time-series.ipynb)
+  - [02 - Trend](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/tutorial/02.%20trend.ipynb)
+  - [03 - Seasonality](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/tutorial/03.%20seasonality.ipynb)
+  - [04 - Time Series as Features](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/tutorial/04.%20time-series-as-features.ipynb)
+  - [05 - Hybrid Models](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/tutorial/05.%20hybrid-models.ipynb)
+  - [06 - Forecasting With Machine Learning](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/tutorial/06.%20forecasting-with-machine-learning.ipynb)
