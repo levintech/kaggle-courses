@@ -271,3 +271,9 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [04 - Time Series as Features](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/tutorial/04.%20time-series-as-features.ipynb)
   - [05 - Hybrid Models](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/tutorial/05.%20hybrid-models.ipynb)
   - [06 - Forecasting With Machine Learning](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/tutorial/06.%20forecasting-with-machine-learning.ipynb)
+
+### Exercise
+
+  - [01 - Linear Regression With Time Series](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/exercise/01.%20exercise-linear-regression-with-time-series.ipynb)
+  - [02 - Trend](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/exercise/02.%20exercise-trend.ipynb)
+  - [03 - Seasonality](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/exercise/03.%20exercise-seasonality.ipynb)
