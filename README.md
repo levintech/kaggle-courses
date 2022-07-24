@@ -9,7 +9,7 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
 |<img width="500" alt="Pandas" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/Pandas.png">|<img width="500" alt="Intermediate to Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/Intermediate%20Machine%20Learning.png">|<img width="500" alt="Data Visualization" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/Data%20Visualization.png">|
 |<img width="500" alt="Feature Engineering" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/Feature%20Engineering.png">|<img width="500" alt="Intro to SQL" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/Intro%20to%20SQL.png">|<img width="500" alt="Advanced SQL" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/Advanced%20SQL.png">|
 |<img width="500" alt="Intro to Deep Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/10.%20Intro%20to%20Deep%20Learning/Intro%20to%20Deep%20Learning.png">|<img width="500" alt="Computer Vision" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/Computer%20Vision.png">|<img width="500" alt="Data Cleaning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/Data%20Cleaning.png">|
-|<img width="500" alt="Time Series" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/Time%20Series.png">| | |
+| | |
 
 ## Tutorial 1 - Intro to Programming
 
