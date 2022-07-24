@@ -9,7 +9,7 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
 |<img width="500" alt="Pandas" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/Pandas.png">|<img width="500" alt="Intermediate to Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/Intermediate%20Machine%20Learning.png">|<img width="500" alt="Data Visualization" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/Data%20Visualization.png">|
 |<img width="500" alt="Feature Engineering" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/Feature%20Engineering.png">|<img width="500" alt="Intro to SQL" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/Intro%20to%20SQL.png">|<img width="500" alt="Advanced SQL" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/Advanced%20SQL.png">|
 |<img width="500" alt="Intro to Deep Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/10.%20Intro%20to%20Deep%20Learning/Intro%20to%20Deep%20Learning.png">|<img width="500" alt="Computer Vision" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/Computer%20Vision.png">|<img width="500" alt="Data Cleaning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/Data%20Cleaning.png">|
-|<img width="500" alt="Time Series" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/Time%20Series.png">| | |
+|<img width="500" alt="Time Series" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/Time%20Series.png">|<img width="500" alt="Intro to AI Ethics" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/14.%20Intro%20to%20AI%20Ethics/Intro%20to%20AI%20Ethics.png">| |
 
 ## Tutorial 1 - Intro to Programming
 
@@ -281,3 +281,21 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [04 - Time Series as Features](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/exercise/04.%20exercise-time-series-as-features.ipynb)
   - [05 - Hybrid Models](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/exercise/05.%20exercise-hybrid-models.ipynb)
   - [06 - Forecasting With Machine Learning](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/exercise/06.%20exercise-forecasting-with-machine-learning.ipynb)
+
+
+## Tutorial 14 - Intro to AI Ethics
+
+### Lecture Notes
+
+  - [01 - Introduction to AI Ethics](https://github.com/thunderstroke325/kaggle-courses/blob/master/14.%20Intro%20to%20AI%20Ethics/tutorial/01.%20introduction-to-ai-ethics.ipynb)
+  - [02 - Human-Centered Design for AI](https://github.com/thunderstroke325/kaggle-courses/blob/master/14.%20Intro%20to%20AI%20Ethics/tutorial/02.%20human-centered-design-for-ai.ipynb)
+  - [03 - Identifying Bias in AI](https://github.com/thunderstroke325/kaggle-courses/blob/master/14.%20Intro%20to%20AI%20Ethics/tutorial/03.%20identifying-bias-in-ai.ipynb)
+  - [04 - AI Fairness](https://github.com/thunderstroke325/kaggle-courses/blob/master/14.%20Intro%20to%20AI%20Ethics/tutorial/04.%20ai-fairness.ipynb)
+  - [05 - Model Cards](https://github.com/thunderstroke325/kaggle-courses/blob/master/14.%20Intro%20to%20AI%20Ethics/tutorial/05.%20model-cards.ipynb)
+
+### Exercise
+
+  - [02 - Human-Centered Design for AI](https://github.com/thunderstroke325/kaggle-courses/blob/master/14.%20Intro%20to%20AI%20Ethics/exercise/02.%20exercise-human-centered-design-for-ai.ipynb)
+  - [03 - Identifying Bias in AI](https://github.com/thunderstroke325/kaggle-courses/blob/master/14.%20Intro%20to%20AI%20Ethics/exercise/03.%20exercise-identifying-bias-in-ai.ipynb)
+  - [04 - AI Fairness](https://github.com/thunderstroke325/kaggle-courses/blob/master/14.%20Intro%20to%20AI%20Ethics/exercise/04.%20exercise-ai-fairness.ipynb)
+  - [05 - Model Cards](https://github.com/thunderstroke325/kaggle-courses/blob/master/14.%20Intro%20to%20AI%20Ethics/exercise/05.%20exercise-model-cards.ipynb)
