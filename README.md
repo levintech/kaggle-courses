@@ -9,6 +9,7 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
 |<img width="500" alt="Pandas" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/Pandas.png">|<img width="500" alt="Intermediate to Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/Intermediate%20Machine%20Learning.png">|<img width="500" alt="Data Visualization" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/Data%20Visualization.png">|
 |<img width="500" alt="Feature Engineering" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/Feature%20Engineering.png">|<img width="500" alt="Intro to SQL" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/Intro%20to%20SQL.png">|<img width="500" alt="Advanced SQL" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/Advanced%20SQL.png">|
 |<img width="500" alt="Intro to Deep Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/10.%20Intro%20to%20Deep%20Learning/Intro%20to%20Deep%20Learning.png">|<img width="500" alt="Computer Vision" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/Computer%20Vision.png">|<img width="500" alt="Data Cleaning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/Data%20Cleaning.png">|
+|<img width="500" alt="Time Series" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/Time%20Series.png">| | |
 
 ## Tutorial 1 - Intro to Programming
 
@@ -277,3 +278,6 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [01 - Linear Regression With Time Series](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/exercise/01.%20exercise-linear-regression-with-time-series.ipynb)
   - [02 - Trend](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/exercise/02.%20exercise-trend.ipynb)
   - [03 - Seasonality](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/exercise/03.%20exercise-seasonality.ipynb)
+  - [04 - Time Series as Features](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/exercise/04.%20exercise-time-series-as-features.ipynb)
+  - [05 - Hybrid Models](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/exercise/05.%20exercise-hybrid-models.ipynb)
+  - [06 - Forecasting With Machine Learning](https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/exercise/06.%20exercise-forecasting-with-machine-learning.ipynb)
