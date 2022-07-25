@@ -299,3 +299,14 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [03 - Identifying Bias in AI](https://github.com/thunderstroke325/kaggle-courses/blob/master/14.%20Intro%20to%20AI%20Ethics/exercise/03.%20exercise-identifying-bias-in-ai.ipynb)
   - [04 - AI Fairness](https://github.com/thunderstroke325/kaggle-courses/blob/master/14.%20Intro%20to%20AI%20Ethics/exercise/04.%20exercise-ai-fairness.ipynb)
   - [05 - Model Cards](https://github.com/thunderstroke325/kaggle-courses/blob/master/14.%20Intro%20to%20AI%20Ethics/exercise/05.%20exercise-model-cards.ipynb)
+
+
+## Tutorial 15 - Geospatial Analysis
+
+### Lecture Notes
+
+  - [01 - Your First Map](https://github.com/thunderstroke325/kaggle-courses/blob/master/15.%20Geospatial%20Analysis/tutorial/01.%20your-first-map.ipynb)
+  - [02 - Coordinate Reference Systems](https://github.com/thunderstroke325/kaggle-courses/blob/master/15.%20Geospatial%20Analysis/tutorial/02.%20coordinate-reference-systems.ipynb)
+  - [03 - Interactive Maps](https://github.com/thunderstroke325/kaggle-courses/blob/master/15.%20Geospatial%20Analysis/tutorial/03.%20interactive-maps.ipynb)
+  - [04 - Manipulating Geospatial Data](https://github.com/thunderstroke325/kaggle-courses/blob/master/15.%20Geospatial%20Analysis/tutorial/04.%20manipulating-geospatial-data.ipynb)
+  - [05 - Proximity Analysis](https://github.com/thunderstroke325/kaggle-courses/blob/master/15.%20Geospatial%20Analysis/tutorial/05.%20proximity-analysis.ipynb)
