@@ -318,3 +318,15 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [03 - Interactive Maps](https://github.com/thunderstroke325/kaggle-courses/blob/master/15.%20Geospatial%20Analysis/exercise/03.%20exercise-interactive-maps.ipynb)
   - [04 - Manipulating Geospatial Data](https://github.com/thunderstroke325/kaggle-courses/blob/master/15.%20Geospatial%20Analysis/exercise/04.%20exercise-manipulating-geospatial-data.ipynb)
   - [05 - Proximity Analysis](https://github.com/thunderstroke325/kaggle-courses/blob/master/15.%20Geospatial%20Analysis/exercise/05.%20exercise-proximity-analysis.ipynb)
+
+
+## Tutorial 16 - Machine Learning Explainability
+
+### Lecture Notes
+
+  - [01 - Use Cases for Model Insights](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/tutorial/01.%20use-cases-for-model-insights.ipynb)
+  - [02 - Pemutation Importance](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/tutorial/02.%20permutation-importance.ipynb)
+  - [03 - Partial Plots](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/tutorial/03.%20partial-plots.ipynb)
+  - [04 - SHAP Values](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/tutorial/04.%20shap-values.ipynb)
+  - [05 - Advanced Uses of SHAP Values](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/tutorial/05.%20advanced-uses-of-shap-values.ipynb)
+
