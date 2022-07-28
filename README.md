@@ -338,7 +338,6 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [04 - SHAP Values](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/exercise/04.%20exercise-shap-values.ipynb)
   - [05 - Advanced Uses of SHAP Values](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/exercise/05.%20exercise-advanced-uses-of-shap-values.ipynb)
 
-## Tutorial 16 - Machine Learning Explainability
 
 ## Tutorial 17 - Intro to Game AI and Reinforcement Learning
 
