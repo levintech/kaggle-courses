@@ -10,6 +10,7 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
 |<img width="500" alt="Feature Engineering" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/Feature%20Engineering.png">|<img width="500" alt="Intro to SQL" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/Intro%20to%20SQL.png">|<img width="500" alt="Advanced SQL" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/Advanced%20SQL.png">|
 |<img width="500" alt="Intro to Deep Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/10.%20Intro%20to%20Deep%20Learning/Intro%20to%20Deep%20Learning.png">|<img width="500" alt="Computer Vision" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/Computer%20Vision.png">|<img width="500" alt="Data Cleaning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/Data%20Cleaning.png">|
 |<img width="500" alt="Time Series" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/Time%20Series.png">|<img width="500" alt="Intro to AI Ethics" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/14.%20Intro%20to%20AI%20Ethics/Intro%20to%20AI%20Ethics.png">|<img width="500" alt="Geospatial Analysis" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/15.%20Geospatial%20Analysis/Geospatial%20Analysis.png">|
+|<img width="500" alt="Machine Learning Explainability" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/Machine%20Learning%20Explainability.png">| | |
 
 ## Tutorial 1 - Intro to Programming
 
@@ -330,3 +331,9 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [04 - SHAP Values](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/tutorial/04.%20shap-values.ipynb)
   - [05 - Advanced Uses of SHAP Values](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/tutorial/05.%20advanced-uses-of-shap-values.ipynb)
 
+### Exercise
+
+  - [02 - Pemutation Importance](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/exercise/02.%20exercise-permutation-importance.ipynb)
+  - [03 - Partial Plots](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/exercise/03.%20exercise-partial-plots.ipynb)
+  - [04 - SHAP Values](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/exercise/04.%20exercise-shap-values.ipynb)
+  - [05 - Advanced Uses of SHAP Values](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/exercise/05.%20exercise-advanced-uses-of-shap-values.ipynb)
