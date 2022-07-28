@@ -337,3 +337,13 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [03 - Partial Plots](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/exercise/03.%20exercise-partial-plots.ipynb)
   - [04 - SHAP Values](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/exercise/04.%20exercise-shap-values.ipynb)
   - [05 - Advanced Uses of SHAP Values](https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/exercise/05.%20exercise-advanced-uses-of-shap-values.ipynb)
+
+## Tutorial 16 - Machine Learning Explainability
+
+### Lecture Notes
+
+  - [01 - Play the Game](https://github.com/thunderstroke325/kaggle-courses/blob/master/17.%20Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/tutorial/01.%20play-the-game.ipynb)
+  - [02 - One-Step Lookahead](https://github.com/thunderstroke325/kaggle-courses/blob/master/17.%20Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/tutorial/02.%20one-step-lookahead.ipynb)
+  - [03 - N-Step Lookahead](https://github.com/thunderstroke325/kaggle-courses/blob/master/17.%20Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/tutorial/03.%20n-step-lookahead.ipynb)
+  - [04 - Deep Reinforcement Learning](https://github.com/thunderstroke325/kaggle-courses/blob/master/17.%20Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/tutorial/04.%20deep-reinforcement-learning.ipynb)
+
