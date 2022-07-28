@@ -340,6 +340,8 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
 
 ## Tutorial 16 - Machine Learning Explainability
 
+## Tutorial 17 - Intro to Game AI and Reinforcement Learning
+
 ### Lecture Notes
 
   - [01 - Play the Game](https://github.com/thunderstroke325/kaggle-courses/blob/master/17.%20Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/tutorial/01.%20play-the-game.ipynb)
