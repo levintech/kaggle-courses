@@ -348,3 +348,7 @@ Lecture notes and programming exercise from all [Tutorials on Kaggle](https://ww
   - [03 - N-Step Lookahead](https://github.com/thunderstroke325/kaggle-courses/blob/master/17.%20Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/tutorial/03.%20n-step-lookahead.ipynb)
   - [04 - Deep Reinforcement Learning](https://github.com/thunderstroke325/kaggle-courses/blob/master/17.%20Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/tutorial/04.%20deep-reinforcement-learning.ipynb)
 
+### Exercise
+
+  - [01 - Play the Game](https://github.com/thunderstroke325/kaggle-courses/blob/master/17.%20Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/exercise/01.%20exercise-play-the-game.ipynb)
+  - [02 - One-Step Lookahead](https://github.com/thunderstroke325/kaggle-courses/blob/master/17.%20Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/exercise/02.%20exercise-one-step-lookahead.ipynb)
