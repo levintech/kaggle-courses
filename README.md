@@ -1,6 +1,7 @@
 # Kaggle Courses
 
 Lecture notes and programming exercise from all [Tutorials on Kaggle](https://www.kaggle.com/learn).
+You can find all my works here. If it's helpful for you, please **star** this repository and **follow me**.
 
 ## Certifications
 | | | |
