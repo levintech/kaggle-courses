@@ -5,16 +5,6 @@ You can find all my works here.
 
 If it's helpful for you, please **star** this repository and **follow me**.
 
-## Certifications
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="500" alt="Intro to Programming" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/01.%20Intro%20to%20Programming/Intro%20to%20Programming.png">|<img width="500" alt="Python" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/02.%20Python/Python.png">|<img width="500" alt="Intro Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/03.%20Intro%20to%20Machine%20Learning/Intro%20to%20Machine%20Learning.png">|
-|<img width="500" alt="Pandas" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/04.%20Pandas/Pandas.png">|<img width="500" alt="Intermediate to Machine Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/05.%20Intermediate%20to%20Machine%20Learning/Intermediate%20Machine%20Learning.png">|<img width="500" alt="Data Visualization" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/06.%20Data%20Visualization/Data%20Visualization.png">|
-|<img width="500" alt="Feature Engineering" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/07.%20Feature%20Engineering/Feature%20Engineering.png">|<img width="500" alt="Intro to SQL" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/08.%20SQL/Intro%20to%20SQL.png">|<img width="500" alt="Advanced SQL" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/09.%20Advanced%20SQL/Advanced%20SQL.png">|
-|<img width="500" alt="Intro to Deep Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/10.%20Intro%20to%20Deep%20Learning/Intro%20to%20Deep%20Learning.png">|<img width="500" alt="Computer Vision" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/11.%20Computer%20Vision/Computer%20Vision.png">|<img width="500" alt="Data Cleaning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/12.%20Data%20Cleaning/Data%20Cleaning.png">|
-|<img width="500" alt="Time Series" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/13.%20Time%20Series/Time%20Series.png">|<img width="500" alt="Intro to AI Ethics" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/14.%20Intro%20to%20AI%20Ethics/Intro%20to%20AI%20Ethics.png">|<img width="500" alt="Geospatial Analysis" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/15.%20Geospatial%20Analysis/Geospatial%20Analysis.png">|
-|<img width="500" alt="Machine Learning Explainability" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/16.%20Machine%20Learning%20Explainability/Machine%20Learning%20Explainability.png">|<img width="500" alt="Intro to Game AI and Reinforcement Learning" src="https://github.com/thunderstroke325/kaggle-courses/blob/master/17.%20Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning.png">| |
-
 ## Tutorial 1 - Intro to Programming
 
 ### Lecture Notes
